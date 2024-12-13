@@ -11,8 +11,6 @@
 
 - [Funcionalidades](#funcionalidades)
 
-- [Aplicação](#aplicação)
-
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
