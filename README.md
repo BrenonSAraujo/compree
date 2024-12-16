@@ -29,8 +29,6 @@
 
 :heavy_check_mark: `Funcionalidade 2:` Armazena os dados no Postgres por meio do TypeORM;
 
-:heavy_check_mark: `Funcionalidade 3:` 
-
 ## Ferramentas utilizadas
 [![My Skills](https://skillicons.dev/icons?i=nestjs,ts,postgres,docker)](https://skillicons.dev)
 
@@ -49,6 +47,8 @@
   - ``docker compose up -d``: Suba a aplicação com o Docker
   
   - ``npm run start``: inicie o servidor da aplicação
+    
+    obs: node v18.18.0
  
 ## Abrir e rodar o projeto
 
