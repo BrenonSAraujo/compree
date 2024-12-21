@@ -14,7 +14,7 @@
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
 - [Técnicas e Tecnologias Utilizadas](#tecnicas-e-ferramentas-utilizadas)
-- 
+  
 - [Acesso ao projeto](#acesso-ao-projeto)
 
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
