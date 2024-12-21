@@ -13,6 +13,8 @@
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
+- [Técnicas e Tecnologias Utilizadas](#tecnicas-e-ferramentas-utilizadas)
+- 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
@@ -25,15 +27,27 @@
 
 ## Funcionalidades
 
+:heavy_check_mark: `Funcionalidade 1:` CRUD na API;
+
 :heavy_check_mark: `Funcionalidade 1:` Cria uma sessão de usuário por meio do token de acesso;
 
 :heavy_check_mark: `Funcionalidade 2:` Armazena os dados no Postgres por meio do TypeORM;
 
 ## Ferramentas utilizadas
-[![My Skills](https://skillicons.dev/icons?i=nestjs,ts,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,redis,postgres,docker)](https://skillicons.dev)
 
 
 ###
+
+## ✔️ Técnicas e Tecnologias Utilizadas
+
+As principais técnicas e tecnologias abordadas são:
+
+- `NodeJS`: Permite executar código JavaScript no lado do servidor;
+- `NestJS`: Framework de código aberto para desenvolvimento de aplicações do lado do servidor;
+- `TypeScript`: Superconjunto do JavaScript. Adiciona recursos ao JavaScript, como tipagem estática, interfaces, classes e orientação a objetos;
+- `Redis`: Banco de dados de código aberto que armazena dados na memória, em vez de em disco ou em unidades de estado sólido;
+- `JWT`: Usado na autenticação e na autorização em aplicativos da web e móveis;
 
 ## Acesso ao projeto
  <p align="left"> 
