@@ -70,5 +70,5 @@ As principais técnicas e tecnologias abordadas são:
 ## Abrir e rodar o projeto
  <p align="left"> Caso queira verificar o banco de dados, é preciso primerio logar na página do pgAdmin4 com os dados de email e senha no arquivo docker-compose.yaml. Após isso, insira as informações de nome, senha e porta de acordo com as variáveis de ambiente no arquivo .env </p>
 
-  Você pode interagir com este projeto por meio de uma ferramenta de desenvolvimento e teste de API, como o Postman. Após isso, você pode se cadastrar na rota de 'http://localhost:3000/autenticacao/login' colocando seu nome, email e senha e. Com isso será gerado um token de acesso, o qual deve ser colocado no body toda vez em que você quiser fazer uma requisição de cadastro.
+  Você pode interagir com este projeto por meio de uma ferramenta de desenvolvimento e teste de API, como o Postman. Após isso, você pode se cadastrar na rota de 'http://localhost:3000/autenticacao/login' colocando seu nome, email e senha. Com isso, será gerado um token de acesso, o qual deve ser colocado no body toda vez em que você quiser fazer uma requisição de cadastro.
 
