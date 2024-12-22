@@ -29,9 +29,9 @@
 
 :heavy_check_mark: `Funcionalidade 1:` CRUD na API;
 
-:heavy_check_mark: `Funcionalidade 1:` Cria uma sessão de usuário por meio do token de acesso;
+:heavy_check_mark: `Funcionalidade 2:` Cria uma sessão de usuário por meio do token de acesso;
 
-:heavy_check_mark: `Funcionalidade 2:` Armazena os dados no Postgres por meio do TypeORM;
+:heavy_check_mark: `Funcionalidade 3:` Armazena os dados no Postgres por meio do TypeORM;
 
 ## Ferramentas utilizadas
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,redis,postgres,docker)](https://skillicons.dev)
